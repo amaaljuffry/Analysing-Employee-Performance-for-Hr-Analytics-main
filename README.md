@@ -10,7 +10,6 @@ This was a project done for HiCouncillor as a team of 4 members.
 
 Understanding employee performance is essential for HR teams to make informed decisions and develop effective strategies. This project combines SQL and Python for a comprehensive analysis. Here's what we've done:
 
-[![Python Link](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee_Performance_for_Hr_Analytics.ipynb))
 
 1. **Python Data Preprocessing**: Following the SQL analysis, we used Python for data preprocessing and cleaning:
 
@@ -27,8 +26,6 @@ The data cleaning process helped us address inconsistencies and prepare the data
 
 ##
 3. **SQL Data Analysis**: We performed data analysis using SQL, making the following key insights:
-
-   [![SQL link](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql))
 
    - Calculated the average age of employees in each department and gender group.
    - Listed the top three departments with the highest average training scores.
@@ -54,20 +51,16 @@ The data cleaning process helped us address inconsistencies and prepare the data
 
 ## Repository Structure
 
-- **[uncleaned_employees_final_dataset.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Uncleaned_employees_final_dataset.csv)**: The original dataset used for both SQL and Python analysis.
-- **[employees_cleaned.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/employees_cleaned.csv)**: The cleaned dataset.
-- **[employee_performance_analysis_python](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee_Performance_for_Hr_Analytics.ipynb)**: The Python data cleaning and preprocessing notebook.
-- **[employee_performance_analysis_sql](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql)**: The SQL analysis notebook.
 
 ## How to Use
 
-1. Access the Python data cleaning and preprocessing code in the "[employee_performance_analysis_python](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee_Performance_for_Hr_Analytics.ipynb)" notebook.
+1. Access the Python data cleaning and preprocessing code in the "[employee_performance_analysis_python]" notebook.
 
-2. Explore the SQL analysis code in the "[employee_performance_analysis_sql](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql)" notebook.
+2. Explore the SQL analysis code in the "[employee_performance_analysis_sql]" notebook.
 
-3. Use the cleaned dataset in the "[employees_cleaned.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/employees_cleaned.csv)" file for more advanced HR analytics.
+3. Use the cleaned dataset in the "[employees_cleaned.csv]" file for more advanced HR analytics.
 
-- The original dataset provided the foundation for both SQL and Python analysis. It can be found in "[uncleaned_employees_final_dataset.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Uncleaned_employees_final_dataset.csv)."
+- The original dataset provided the foundation for both SQL and Python analysis. It can be found in "[uncleaned_employees_final_dataset.csv]."
 
 This project delivers a comprehensive HR analytics solution by combining Python for data preprocessing and SQL for analysis.
 
